@@ -49,7 +49,6 @@ object HelloWorld {
       tempQuotes = tempQuotes.drop(randomInt)
     }
 
-    println(quotes.size)
     println(newQuotes.size)
 
     newQuotes
